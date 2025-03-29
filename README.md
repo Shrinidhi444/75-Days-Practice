@@ -85,7 +85,7 @@ Fork this repository 📌
 
 Clone the repo to your local system:
 
-git clone https://github.com/your-username/75-Days-Python-Challenge.git
+git clone https://github.com/Shrinidhi444/75-Days-Practice.git
 
 Solve daily challenges and commit your solutions:
 
